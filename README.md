@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mahdi Heydari
 
-<!--
-**abramsymons/abramsymons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Protocol engineer and security researcher. I design decentralized systems where **ordering is separated from execution**: replicas agree on a log, and each app replays it to reach the same state. I've applied that idea since 2018: BrightID's node consensus, the Muon oracle network, the Zellular sequencer, and the Zex exchange.
 
-Here are some ideas to get you started:
+📍 Muscat, Oman · remote · open to protocol engineering and security research roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- **Consensus as a service**: [Zellular](https://github.com/zellular-xyz/zsequencer), a leader-based BFT sequencer run as an EigenLayer AVS, and now [vseq](https://github.com/abramsymons/firedancer/blob/vseq/src/app/vseq/DESIGN.md), Firedancer's Alpenglow consensus extracted as a standalone ordering service.
+- **Threshold custody**: the [pyfrost protocol spec](https://github.com/zellular-xyz/pyfrost/wiki/PyFrost-TSS-Protocol) → Bitcoin, EVM, Tron and Solana custody from one FROST validator group (ZexPorta).
+- **Threshold oracles**: designed [Muon](https://muon.net), which chose TSS over multisig in 2021.
+- **Sybil-resistant identity**: primary architect of the [BrightID node](https://github.com/BrightID/BrightID-Node).
+- **EigenLayer tooling**: lead author of [eigensdk-python](https://github.com/zellular-xyz/eigensdk-python) · 🏆 1st place, EigenLayer AVS MicroHacks 2024.
+
+## Security research
+- **Aptos:** $30K bounty for a High-severity consensus bug that could halt the network.
+- **Sui:** 8 denial-of-service reports, 4 reachable by unauthenticated peers.
+- **Muon:** rogue-key and denial-of-service findings in the DKG.
+
+## Writing
+- [Threshold signatures, DKG, and attacks on complaint handling](https://github.com/zellular-xyz/pyfrost/wiki/PyFrost-TSS-Protocol)
+
+📫 abramsymons@gmail.com · [X @0xmahdi_](https://x.com/0xmahdi_)
