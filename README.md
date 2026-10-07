@@ -4,6 +4,8 @@ Protocol engineer and security researcher. I design decentralized systems where 
 
 📍 Muscat, Oman · remote · open to protocol engineering and security research roles
 
+📖 **[My story](https://abramsymons.github.io)** · 📄 **[Resume](https://abramsymons.github.io/resume.pdf)** ([detailed](https://abramsymons.github.io/resume-detailed.pdf))
+
 ## What I've built
 - **Consensus as a service**: [Zellular](https://github.com/zellular-xyz/zsequencer), a leader-based BFT sequencer run as an EigenLayer AVS, and now [vseq](https://github.com/abramsymons/firedancer/blob/vseq/src/app/vseq/DESIGN.md), Firedancer's Alpenglow consensus extracted as a standalone ordering service.
 - **Threshold custody**: the [pyfrost protocol spec](https://github.com/zellular-xyz/pyfrost/wiki/PyFrost-TSS-Protocol) → Bitcoin, EVM, Tron and Solana custody from one FROST validator group (ZexPorta).
