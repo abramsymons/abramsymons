@@ -9,7 +9,7 @@ Protocol engineer and security researcher. I design decentralized systems where 
 ## What I've built
 - **Consensus as a service**: [Zellular](https://github.com/zellular-xyz/zsequencer), a leader-based BFT sequencer run as an EigenLayer AVS, and now [vseq](https://github.com/abramsymons/firedancer/blob/vseq/src/app/vseq/DESIGN.md), Firedancer's Alpenglow consensus extracted as a standalone ordering service.
 - **Threshold custody**: the [pyfrost protocol spec](https://github.com/zellular-xyz/pyfrost/wiki/PyFrost-TSS-Protocol) → Bitcoin, EVM, Tron and Solana custody from one FROST validator group (ZexPorta).
-- **Threshold oracles**: designed [Muon](https://muon.net), which chose TSS over multisig in 2021.
+- **Layered oracle security**: designed [Muon](https://muon.net) with three combinable layers: threshold signatures (chosen over multisig in 2021), optimistic warrantors with collateral and disputes, and a co-signing shield.
 - **Sybil-resistant identity**: primary architect of the [BrightID node](https://github.com/BrightID/BrightID-Node).
 - **EigenLayer tooling**: lead author of [eigensdk-python](https://github.com/zellular-xyz/eigensdk-python) · 🏆 1st place, EigenLayer AVS MicroHacks 2024.
 
