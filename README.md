@@ -1,6 +1,6 @@
 # Mahdi Heydari
 
-Protocol engineer and security researcher. I design decentralized systems where **ordering is separated from execution**: replicas agree on a log, and each app replays it to reach the same state. I've applied that idea since 2018: BrightID's node consensus, the Muon oracle network, the Zellular sequencer, and the Zex exchange.
+Protocol engineer and security researcher. I design decentralized systems where **ordering is separated from execution**: replicas agree on a log, and each app replays it to reach the same state. I've applied that idea since 2018: BrightID's node consensus, the Muon oracle network, the Zellular sequencer, and the Zex exchange. I believe simplicity is the root of both security and performance, so I start with the simplest prototype that proves a protocol, then make it production-ready.
 
 📍 Muscat, Oman · remote · open to protocol engineering and security research roles
 
