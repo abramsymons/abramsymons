@@ -19,7 +19,7 @@ Decentralized infrastructure as services that apps compose, so developers write 
 ## Security research
 - **Aptos:** $30K bounty for a High-severity consensus bug that could halt the network.
 - **Sui:** 8 denial-of-service reports, 4 reachable by unauthenticated peers.
-- **Zex (internal audit):** 17 findings across FROST signing and multi-chain deposits, several of them critical.
+- **Zex (internal audit):** contributed to the pre-launch security audit of the custody stack: threshold signing and multi-chain deposits.
 - **Muon:** rogue-key and denial-of-service findings in the DKG.
 
 ## Writing
