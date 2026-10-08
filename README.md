@@ -4,7 +4,7 @@ Protocol engineer and security researcher. I design decentralized systems where 
 
 📍 Muscat, Oman · remote · open to protocol engineering and security research roles
 
-📖 **[My story](https://abramsymons.github.io)** · 📄 **[Resume](https://abramsymons.github.io/resume.pdf)** ([detailed](https://abramsymons.github.io/resume-detailed.pdf))
+📖 **[My story](https://abramsymons.github.io)** · 📄 **[Resume](https://abramsymons.github.io/resume.pdf)**
 
 ## What I've built
 Decentralized infrastructure as services that apps compose, so developers write only their own logic:
