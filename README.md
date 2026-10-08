@@ -16,6 +16,7 @@ Protocol engineer and security researcher. I design decentralized systems where 
 ## Security research
 - **Aptos:** $30K bounty for a High-severity consensus bug that could halt the network.
 - **Sui:** 8 denial-of-service reports, 4 reachable by unauthenticated peers.
+- **Zex (internal audit):** 17 findings across FROST signing and multi-chain deposits, several of them critical.
 - **Muon:** rogue-key and denial-of-service findings in the DKG.
 
 ## Writing
