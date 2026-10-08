@@ -14,7 +14,7 @@ Decentralized infrastructure as services that apps compose, so developers write 
 - **Orderbook as a service**: [Zex](https://github.com/zex-fi), an exchange engine run as a replicated state machine. Prototyped at 100K orders/s, now heading to launch at about 1M orders/s with a C engine verified against the Python one.
 - **Oracle as a service**: [Muon](https://muon.net), with three combinable security layers: threshold signatures (chosen over multisig in 2021), optimistic warrantors with collateral and disputes, and a co-signing shield.
 - **Sybil-resistant identity**: primary architect of the [BrightID node](https://github.com/BrightID/BrightID-Node).
-- **EigenLayer tooling**: lead author of [eigensdk-python](https://github.com/zellular-xyz/eigensdk-python) · 🏆 1st place, EigenLayer AVS MicroHacks 2024.
+- **EigenLayer tooling**: lead author of [eigensdk-python](https://github.com/zellular-xyz/eigensdk-python) and co-built [eigensdk-js](https://github.com/zellular-xyz/eigensdk-js), the Python and JavaScript SDKs that won 🏆 1st place at EigenLayer AVS MicroHacks 2024.
 
 ## Security research
 - **Aptos:** $30K bounty for a High-severity consensus bug that could halt the network.
