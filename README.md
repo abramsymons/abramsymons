@@ -24,5 +24,6 @@ Decentralized infrastructure as services that apps compose, so developers write 
 
 ## Writing
 - [Threshold signatures, DKG, and attacks on complaint handling](https://github.com/zellular-xyz/pyfrost/wiki/PyFrost-TSS-Protocol)
+- [How I hunt protocol bugs: reading the fixes first](https://abramsymons.github.io/pattern-hunting.html)
 
 📫 abramsymons@gmail.com · [LinkedIn](https://www.linkedin.com/in/abramsymons) · [X @0xmahdi_](https://x.com/0xmahdi_)
